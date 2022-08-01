@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Amit\Nextgenhealthcarepublish</_PublishTargetUrl>
+    <History>True|2022-07-29T07:40:29.4705272Z;True|2022-07-29T13:02:20.4097449+05:30;True|2022-07-28T15:48:10.3607963+05:30;True|2022-07-28T13:11:39.9028292+05:30;True|2022-07-28T13:02:04.7875263+05:30;True|2022-07-28T12:20:33.6290800+05:30;True|2022-07-28T12:07:46.3056232+05:30;True|2022-07-28T12:03:13.3819951+05:30;True|2022-07-28T11:57:56.7753201+05:30;True|2022-07-28T11:57:45.5396887+05:30;True|2022-07-28T11:38:41.7072470+05:30;False|2022-07-28T11:17:35.9179048+05:30;True|2022-07-28T11:16:32.7914792+05:30;True|2022-07-27T17:50:14.0010532+05:30;True|2022-07-27T17:46:32.0091001+05:30;True|2022-07-27T17:42:12.5742724+05:30;True|2022-07-27T17:34:59.8951738+05:30;True|2022-07-27T17:32:03.9594579+05:30;True|2022-07-27T17:04:20.0509456+05:30;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/HtmlAgilityPack.dll">
+      <publishTime>07/14/2016 16:31:16</publishTime>
+    </File>
+    <File Include="bin/HtmlAgilityPack.pdb">
+      <publishTime>07/14/2016 16:31:16</publishTime>
+    </File>
+    <File Include="bin/ICSharpCode.SharpZipLib.dll">
+      <publishTime>08/05/2021 22:38:30</publishTime>
+    </File>
+    <File Include="bin/ICSharpCode.SharpZipLib.pdb">
+      <publishTime>08/05/2021 22:38:30</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>04/15/2020 04:09:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>05/09/2018 16:10:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Configuration.ConfigurationBuilders.Base.dll">
+      <publishTime>09/07/2018 23:07:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Configuration.ConfigurationBuilders.Environment.dll">
+      <publishTime>09/07/2018 23:08:30</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Configuration.Abstractions.dll">
+      <publishTime>03/16/2021 07:47:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Configuration.Binder.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Configuration.dll">
+      <publishTime>03/16/2021 07:47:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <publishTime>03/16/2021 07:48:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.DependencyInjection.dll">
+      <publishTime>03/16/2021 07:48:06</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll">
+      <publishTime>03/16/2021 07:50:06</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Logging.Abstractions.dll">
+      <publishTime>03/16/2021 07:49:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Logging.dll">
+      <publishTime>03/16/2021 07:49:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Options.dll">
+      <publishTime>03/16/2021 07:47:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Primitives.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll">
+      <publishTime>04/25/2013 15:34:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Caching.dll">
+      <publishTime>04/25/2013 15:34:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Configuration.dll">
+      <publishTime>04/25/2013 15:34:06</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.dll">
+      <publishTime>05/21/2013 17:50:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.dll">
+      <publishTime>04/25/2013 15:34:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.dll">
+      <publishTime>04/25/2013 15:34:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 11:48:56</publishTime>
+    </File>
+    <File Include="bin/Mvp.Xml.dll">
+      <publishTime>07/24/2012 18:15:38</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/18/2021 01:33:36</publishTime>
+    </File>
+    <File Include="bin/Nextgenhealthcare.Project.Web.dll">
+      <publishTime>07/29/2022 13:10:29</publishTime>
+    </File>
+    <File Include="bin/Nextgenhealthcare.Project.Web.pdb">
+      <publishTime>07/29/2022 13:10:29</publishTime>
+    </File>
+    <File Include="bin/Polly.dll">
+      <publishTime>11/27/2018 14:12:40</publishTime>
+    </File>
+    <File Include="bin/Polly.pdb">
+      <publishTime>11/27/2018 14:12:40</publishTime>
+    </File>
+    <File Include="bin/protobuf-net.dll">
+      <publishTime>09/30/2013 14:50:50</publishTime>
+    </File>
+    <File Include="bin/protobuf-net.pdb">
+      <publishTime>09/30/2013 14:50:50</publishTime>
+    </File>
+    <File Include="bin/RazorGenerator.Mvc.dll">
+      <publishTime>02/02/2017 23:52:06</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>08/08/2018 12:18:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>08/08/2018 12:18:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>08/08/2018 12:09:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>05/12/2017 09:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>05/12/2017 09:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>05/11/2016 18:55:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>05/11/2016 18:55:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/16/2018 03:29:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>05/11/2016 18:55:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>05/11/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>05/11/2016 18:55:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>05/11/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Globalization.Calendars.dll">
+      <publishTime>05/11/2016 18:56:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>05/11/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.ZipFile.dll">
+      <publishTime>05/11/2016 18:56:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>05/11/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>05/11/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Http.dll">
+      <publishTime>05/11/2016 18:56:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Sockets.dll">
+      <publishTime>05/11/2016 18:56:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/16/2018 03:29:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>05/11/2016 18:57:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>05/11/2016 18:57:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>05/11/2016 18:57:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>05/11/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>05/11/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>05/11/2016 18:57:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
+      <publishTime>05/11/2016 18:57:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>05/11/2016 18:57:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>05/11/2016 18:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>05/11/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>05/11/2016 18:57:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>05/11/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>08/08/2018 12:18:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>08/08/2018 12:09:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>08/08/2018 12:18:16</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Data.ResourceItems.Abstractions.dll">
+      <publishTime>10/20/2021 21:30:48</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Data.ResourceItems.ProtobufNet.dll">
+      <publishTime>10/20/2021 21:30:54</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Framework.Conditions.dll">
+      <publishTime>06/16/2020 01:51:22</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Framework.Data.Blobs.Abstractions.dll">
+      <publishTime>02/10/2020 12:48:12</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Framework.Data.Blobs.dll">
+      <publishTime>02/10/2020 12:48:08</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Kernel.dll">
+      <publishTime>10/20/2021 21:31:32</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Logging.Client.dll">
+      <publishTime>10/20/2021 20:34:36</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Logging.dll">
+      <publishTime>10/20/2021 20:34:28</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Mvc.dll">
+      <publishTime>10/20/2021 23:25:58</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Nexus.Consumption.dll">
+      <publishTime>08/10/2021 19:56:24</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Nexus.Licensing.dll">
+      <publishTime>01/30/2019 12:39:34</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Web.dll">
+      <publishTime>10/20/2021 23:21:14</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>02/19/2020 15:35:18</publishTime>
+    </File>
+    <File Include="bin/System.ComponentModel.Annotations.dll">
+      <publishTime>05/15/2018 18:59:36</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>11/29/2018 21:09:16</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>11/05/2018 04:08:56</publishTime>
+    </File>
+    <File Include="bin/System.Numerics.Vectors.dll">
+      <publishTime>07/19/2017 15:31:36</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>02/21/2020 09:28:04</publishTime>
+    </File>
+    <File Include="bin/System.Security.AccessControl.dll">
+      <publishTime>05/15/2018 18:59:42</publishTime>
+    </File>
+    <File Include="bin/System.Security.Cryptography.Xml.dll">
+      <publishTime>05/15/2018 18:59:44</publishTime>
+    </File>
+    <File Include="bin/System.Security.Permissions.dll">
+      <publishTime>05/15/2018 18:59:40</publishTime>
+    </File>
+    <File Include="bin/System.Security.Principal.Windows.dll">
+      <publishTime>05/15/2018 18:59:42</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Tasks.Extensions.dll">
+      <publishTime>02/19/2020 15:35:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>11/28/2018 13:04:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>11/05/2018 04:09:16</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>11/05/2018 04:11:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>11/28/2018 12:59:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>11/28/2018 13:00:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>11/28/2018 13:04:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>11/28/2018 13:04:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>11/28/2018 13:04:24</publishTime>
+    </File>
+    <File Include="bin/WebActivatorEx.dll">
+      <publishTime>06/08/2013 18:37:26</publishTime>
+    </File>
+    <File Include="Views/Nextgenhealthcare/NextgenhealthcareLayout.cshtml">
+      <publishTime>07/27/2022 17:02:23</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
